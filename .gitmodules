@@ -1,0 +1,3 @@
+[submodule "databricks_playbooks"]
+	path = databricks_playbooks
+	url = https://github.com/Saranshkamboj/databricks_playbooks.git
